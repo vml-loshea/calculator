@@ -3,7 +3,7 @@ Calculator.js: a node.js Demonstration Project
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
-[![Build Status](https://dev.azure.com/VMLYRInternal/LiamOshea/_apis/build/status/vml-loshea.calculator?branchName=master)](https://dev.azure.com/VMLYRInternal/LiamOshea/_build/latest?definitionId=30&branchName=master)
+[![Build Status](https://dev.azure.com/VMLYRInternal/LiamOshea/_apis/build/status/vml-loshea.calculator?branchName=master&jobName=Job)](https://dev.azure.com/VMLYRInternal/LiamOshea/_build/latest?definitionId=30&branchName=master)
 
 
 The project contains a simple node.js application that exposes REST APIs
